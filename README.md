@@ -20,13 +20,10 @@ nodejs@12
 openssh-server
 nginx
 ```
-
 ## Pré-requis
 - [Vagrant](https://www.vagrantup.com/downloads.html)  
 - [VirtualBox 6.0](https://www.virtualbox.org/wiki/Downloads)  
 - [Git Bash](https://gitforwindows.org/)
-
----------------
 
 # Détails
 1. Installation d'une **VirtualBox 6.0.16** avec un iso Ubuntu
@@ -42,5 +39,3 @@ Commande pour créer une VM à partir des configurations dans *Vagrantfile*
 ```bash
 vagrant up
 ```
-
-
